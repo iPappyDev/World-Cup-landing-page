@@ -1,0 +1,109 @@
+*{
+    top: 0%;
+    margin: 0ch;
+    color: white;
+    font-family: sans-serif;
+}
+a{
+    margin-left: 45px;
+    text-decoration: none;
+}
+body{
+    background-color: #016737;
+}
+header{
+    display: flex;
+}
+#fifa{
+    background-color: #d9d9d9;
+    height: 70px;
+    width: 150px;
+    border-radius: 0% 0% 50% 30%;
+}
+#fifa h3{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+#heading{
+    margin: auto; width: 40%;
+}
+.headButton{
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+    margin-right: 30px;
+    background-color: #ffffff;
+    border: 0;
+    color: #016737;
+}
+.bodySection{
+    display: flex; margin: auto; width: 90%; padding-top: 50px;
+}
+#cupSection{
+    display: flex;
+}
+#cupSection img{
+    margin-top: -50px;
+}
+#countdown{
+    margin-top: 200px; 
+    margin-left: -200px;
+}
+#countdown div{
+    display: flex;
+    justify-content: space-between;
+}
+#countdown h3{
+    font-size: 25px;
+}
+#countdown div h2{
+   background-color: #43c479;
+   width: 30px;
+   height: 30px;
+   padding-left: 5px;
+   margin-left: 5px;
+   margin-top: 5px;
+
+}
+#spanbox h3{
+    margin-top: 5px;
+    justify-content: space-between;
+   padding-left: 5px;
+   margin-left: 5px;
+    font-size: 12px;
+}
+#fifaCup{
+    margin: auto; 
+    width: 58%;
+    padding-top: 30px;
+}
+#cupDesp{
+    display: flex; 
+    margin-top: 30px;
+}
+#loremCup{
+    display: flex;
+    margin-left: 150px;
+}
+#loremCup div{
+    background-color: white; height: 55px; width: 2px;
+}
+.despBtn{
+    margin-left: 100px;
+    margin-top: 40px;
+    width: 300px;
+    height: 50px;
+    background-color: #016737;
+    border: 2px white solid;
+    border-radius: 10px 10px 10px 10px;
+}
+p{
+    margin-left: 10px;
+}
+#lastImg{
+    margin-left: 80px
+}
+h1{
+    font-size: 30px;
+    font-family: sans-serif;
+}
